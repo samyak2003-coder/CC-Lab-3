@@ -1,3 +1,4 @@
-.auth.db
-.carts.db
-.venv/
+auth.db
+carts.db
+products.db
+.venv
