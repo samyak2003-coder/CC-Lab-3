@@ -3,11 +3,6 @@
 A **web application** built using Flask 🐍 and tested with **Locust** 🐜 for load testing.  
 
 ---
-
-## 🔧 Installation  
-
-Follow these steps to get started:  
-
 ## 🛠️ Optimization Changes
 /cart/__init__.py 
 
